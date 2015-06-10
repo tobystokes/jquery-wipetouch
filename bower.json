@@ -1,0 +1,16 @@
+{
+  "name": "jquery-wipetouch",
+  "version": "1.2.0",
+  "homepage": "http://wipetouch.codeplex.com",
+  "authors": [
+    "Igor Ramadas"
+  ],
+  "main": "jquery.wipetouch.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
